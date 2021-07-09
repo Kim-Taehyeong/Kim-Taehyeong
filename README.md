@@ -39,7 +39,6 @@ Here are some ideas to get you started:
   - <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
 
 ## Cards
-<div align=center> <p> <b>Stack</b> </p> </div>
-<center> Stack </center>
-<a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+[![Github Profile](https://github-readme-stats.vercel.app/api?username=Kim-Taehyeong&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/Kim-Taehyeong)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Taehyeong&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=pygichtyou7)](https://solved.ac/pygichtyou7)
