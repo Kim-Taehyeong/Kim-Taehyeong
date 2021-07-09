@@ -39,9 +39,9 @@ Here are some ideas to get you started:
   - <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
 
 ## Cards
-<b>Github Profile</b><br>
+### Github Profile
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=Kim-Taehyeong&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/Kim-Taehyeong)<br><br><br>
-<b>SolvedAC tier</b><br>
+### SolvedAC tier
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=pygichtyou7)](https://solved.ac/pygichtyou7)<br><br><br>
-<b>Top Languages</b><br>
+### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Taehyeong&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)<br><br><br>
