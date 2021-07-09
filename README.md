@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Taehyeong-Kim (gudxo)
+## Taehyeong-Kim
+- 1
+  - 2
+- 3
 ## Cards
 <div align=center> <p> <b>Stack</b> </p> </div>
 <center> Stack </center>
