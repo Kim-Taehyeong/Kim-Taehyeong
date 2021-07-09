@@ -46,4 +46,3 @@ Here are some ideas to get you started:
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Taehyeong&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)<br><br><br>
 
-[![wakatime](https://wakatime.com/badge/github/Kim-Taehyeong/PyBaekjoon.svg)](https://wakatime.com/badge/github/Kim-Taehyeong/PyBaekjoon)
