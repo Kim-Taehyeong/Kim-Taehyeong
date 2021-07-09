@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 -->
 
 ## Taehyeong-Kim
-- <b>School</b>
+### School
   - (2021 ~ ) 단국대학교 컴퓨터공학과 재학
-- <b>Insterest</b>
+### Insterest
   - ML(Machine Learning), DL(Deep Learning)
   - Open-CV Programming
   - Web Service with APIs
   - Google Cloud Platform
  
-- <b>Studying</b>
+### Studying 
   - Web Language <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   
   - PS(Problem Solving) with Baekjoon
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   
   - CentOS Linux <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/>
  
-- <b>My Developer Stack</b>
+### My Developer Stack
   - <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
   - <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
