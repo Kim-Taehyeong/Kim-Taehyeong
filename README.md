@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Taehyeong-Kim
 ### School
-  - (2021 ~ ) 단국대학교 컴퓨터공학과 재학
+  - (2021 ~ ) Dankook Univ. C.E
 ### Insterest
   - ML(Machine Learning), DL(Deep Learning)
   - Open-CV Programming
