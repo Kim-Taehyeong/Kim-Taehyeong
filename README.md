@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 ## Cards
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=Kim-Taehyeong&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/Kim-Taehyeong)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Taehyeong&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)
-[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=pygichtyou7)](https://solved.ac/pygichtyou7)
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=Taehyeong-Kim)](https://solved.ac/pygichtyou7)
