@@ -29,8 +29,8 @@ Here are some ideas to get you started:
   - PS(Problem Solving) with Baekjoon
   
   - CCNA (Cisco Certified Network Associate)
-  
-  - CentOS Linux <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/>
+
+  - Pytorch <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
 
   - MySQL <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
