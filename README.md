@@ -19,7 +19,7 @@
 
   - CI
     - Docker <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-    - Travis <img src="https://img.shields.io/badge/Travis CI-3EAAAF?style=flat-square&logo=Travis CI&logoColor=white"/>
+    - Travis <img src="https://img.shields.io/badge/Travis%20CI-3EAAAF?style=flat-square&logo=Travis%20CI&logoColor=white"/>
  
 ### My Developer Stack
   - <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
