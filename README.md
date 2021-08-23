@@ -1,4 +1,3 @@
-
 ## Taehyeong-Kim
 ### School
   - (2021 ~ ) Dankook Univ. C.E
