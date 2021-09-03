@@ -2,6 +2,7 @@
 
 ### School
   - (2021 ~ ) Dankook Univ. C.E
+
 ### Insterest
   - ML(Machine Learning), DL(Deep Learning)
   - Open-CV Programming
