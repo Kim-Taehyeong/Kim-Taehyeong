@@ -1,8 +1,8 @@
 ## Taehyeong-Kim
 
 ### School
-  - (2021 ~ ) Dankook Univ. C.E
-
+  - (2021.3 ~ ) Dankook Univ. C.E
+  - (2022.3 ~ ) 42 Seoul 6th Cadet
 
 ### Insterest
   - ML(Machine Learning), DL(Deep Learning)
