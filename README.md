@@ -1,7 +1,5 @@
 ## Taehyeong-Kim
 
-[![Spotify](https://novatorem-kappa.vercel.app/api/spotify)](https://open.spotify.com/user/sample)
-
 ### School
   - (2021.3 ~ ) Dankook Univ. C.E
   - (2022.3 ~ ) 42 Seoul 6th Cadet
