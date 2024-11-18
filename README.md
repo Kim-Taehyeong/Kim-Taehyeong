@@ -36,5 +36,3 @@
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=pygichtyou7)](https://solved.ac/pygichtyou7)<br><br><br>
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Taehyeong&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)<br><br><br> 
-
-
